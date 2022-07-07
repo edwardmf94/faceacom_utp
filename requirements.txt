@@ -1,8 +1,8 @@
-matplotlib==3.1.1
+matplotlib
 tensorflow
-numpy==1.18.1
-opencv_python==4.2.0.34
-Pillow==7.1.2
+numpy
+opencv_python
+Pillow
 streamlit
 streamlit-webrtc 
 opencv-python-headless
